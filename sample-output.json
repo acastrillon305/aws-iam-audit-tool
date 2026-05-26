@@ -1,0 +1,18 @@
+[
+  {
+    "user": "admin-user",
+    "issue": "MFA not enabled"
+  },
+  {
+    "user": "admin-user",
+    "issue": "Stale access key"
+  },
+  {
+    "user": "dev-user",
+    "issue": "MFA not enabled"
+  },
+  {
+    "user": "dev-user",
+    "issue": "Stale access key"
+  }
+]
